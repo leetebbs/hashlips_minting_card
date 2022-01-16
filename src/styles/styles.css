@@ -7,11 +7,11 @@
   --card: #ffffff;
   --accountText: #ffffff;
   --statusText: #470068;
-  --bg-gradient_1: rgb(162, 196, 240);
-  --bg-gradient_2: rgb(240, 162, 217);
-  --gradient_1: rgb(83, 152, 243);
-  --gradient_2: rgb(236, 71, 214);
-  --gradient_3: rgb(241, 204, 80);
+  --bg-gradient_1: rgb(153, 151, 149);
+  --bg-gradient_2: rgb(27, 27, 27);
+  --gradient_1: rgb(196, 214, 238);
+  --gradient_2: rgb(68, 13, 121);
+  --gradient_3: rgb(80, 241, 93);
   --success: #24a13f;
   --warning: #ca5824;
   --error: #ca2f24;
